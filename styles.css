@@ -1,0 +1,14 @@
+body {
+    background-color:
+    pink;
+    color: blue
+}@media only screen and (max-width: 1000px) {
+    body {
+      background-color: lightblue;
+      color:blue
+    }
+  
+  h1{
+     display: none;
+  }
+}
